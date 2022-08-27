@@ -1,0 +1,410 @@
+@media (max-width:1200px) {
+    .container{
+        width: 90%;
+    }
+    set {
+        margin: 30px 0 60px 25px;
+    }
+    .block-block {
+        left: 458px;
+    }
+}
+@media (max-width: 1024px) {
+    .container{
+        width: 90%;
+    }
+    .hamburger-menu{
+        display: block;
+    }
+    .cat {
+        right: 430px;
+        width: 125px;
+    }
+    .fire {
+        right: 95px;
+        width: 340px;
+    }
+    .sc {
+        top: 200px;
+        width: 200px;
+        right: 15px;
+    }
+
+    .set {
+        margin: 30px 0 60px -5px;
+        width: 940px;
+    }
+    .block-block {
+        left: 375px;
+        width: 280px;
+    }
+    .sell-block {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .gallery {
+        margin-bottom: 20px;
+    }
+    .sell button{
+        margin-left: 510px
+    }
+    .seller h1 {
+        margin: 50px 0;
+    }
+    .blog h1 {
+        margin: 50px 0 0 280px;
+    }
+    .blogs {
+        flex-direction: column;
+    }
+    .homeland {
+        margin-bottom: 20px;
+    }
+    .footer {
+        flex-direction: column;
+    }
+    .net {
+        text-align: center;
+    }
+    .footer div h1 {
+        text-align: center;
+    }
+    .footer div p {
+        text-align: center;
+    }
+    .fa-icons {
+        text-align: center;
+    }
+    .email {
+        margin: 20px 0 0 20px;
+    }
+}
+@media (max-width: 992px) {
+    .set {
+        margin: 30px 0 60px -22px;
+    }
+    .block-block {
+        left: 365px;
+        width: 272px;
+    }
+}
+@media (max-width: 768px) {
+    .set {
+        width: 735px;
+        margin-top: 320px;
+    }
+    .block-block {
+        left: 240px;
+        width: 300px;
+    }
+    .header div a{
+        display: none;
+    }
+    .header div button{
+        display: none;
+    }
+    .hero h1 {
+        font-size: 44px;
+    }
+    .hero p {
+        font-size: 12px;
+    }
+    .active {
+        width: 60%;
+    }
+    .cat {
+        right: 310px;
+        width: 110px;
+    }
+    .sq {
+        right: 130px;
+        width: 70px;
+    }
+    .sc {
+        top: 195px;
+        width: 165px;
+        right: 15px;
+    }
+    .fire {
+        right: 65px;
+        width: 275px;
+    }
+    .fa-arrow-down-long {
+        right: 200px;
+    }
+    .content h1 {
+        font-size: 22px;
+    }
+    .content p {
+        font-size: 12px;
+        margin-left: -80px;
+
+    }
+    .content div button {
+        margin-right: 200px;
+    }
+    .images {
+        flex-direction: column;
+    }
+    .block-block {
+        top: 2135px;
+    }
+    .images div img{
+        margin-top: 15px;
+    }
+    .blog h1 {
+        margin: 50px 0 0 150px;
+    }
+    .footer{
+        padding-bottom: 40px;
+    }
+}
+@media (max-width: 576px) {
+    .cat {
+        right: 175px;
+        width: 85px;
+    }
+    .sq {
+        right: 65px;
+        width: 45px;
+    }
+    .sq {
+        width: 45px;
+    }
+    .sc {
+        width: 125px;
+    }
+    .fire {
+        top: 400px;
+        right: 10px;
+        width: 220px;
+    }
+    .hero h1 {
+        font-size: 36px;
+    }
+    .content-block {
+        flex-direction: column;
+    }
+    .content p {
+        margin: 30px 0;
+    }
+    .block-block {
+        top: 2250px;
+        left: 150px
+    }
+    .set {
+        width: 550px;
+        margin-top: 320px;
+    }
+    .set-block{
+        margin-right: 0;
+    }
+    .set-block-f{
+        margin-left: 0;
+    }
+    .blog h1 {
+        margin: 50px 0 0 80px;
+    }
+    .sell button{
+        display: none;
+    }
+}
+@media (max-width: 450px){
+    .images img{
+        width: 90%;
+    }
+    .cat {
+        right: 90px;
+        width: 80px;
+    }
+    .fire {
+        top: 355px;
+        width: 150px;
+    }
+    .hero h1 {
+        font-size: 30px;
+    }
+    .hero p {
+        font-size: 8px;
+    }
+    .active {
+        width: 405px;
+    }
+    .part{
+        display: none;
+    }
+    .block-block {
+        top: 1960px;
+        left: 85px;
+    }
+    .set-block-f{
+        display: none;
+    }
+    .set {
+        width: 400px;
+        margin: 300px 0 60px 3px;
+    }
+
+}
+@media (max-width: 400px) {
+    .container{
+        width: 90%;
+    }
+    .active {
+        width: 360px;
+    }
+    .explore {
+        flex-direction: column;
+        margin: 40px 0 20px -150px;
+    }
+    .block h1 {
+        font-size: 31px;
+    }
+    .block-block {
+        top: 1922px;
+        left: 57px;
+    }
+    .block-block p {
+        margin-top: -100px;
+    }
+    .set {
+        width: 359px;
+    }
+    .block-block img {
+        margin: 35px 0 0 110px;
+    }
+    .sell h1 {
+        font-size: 36px;
+    }
+    .gallery {
+        width: 90%;
+    }
+    .blog h1 {
+        font-size: 28px;
+    }
+    .homeland {
+        width: 364px;
+        height: 548px;
+    }
+    .homeland img {
+        margin: 12px 0 20px 12px;
+    }
+}
+@media (max-width: 375px) {
+    .container{
+        width: 90%;
+    }
+    .fire {
+        width: 129px;
+    }
+    .active {
+        width: 338px;
+    }
+    .active div h1 {
+        font-size: 28px;
+    }
+    .content {
+        padding-top: 50px;
+    }
+    .block h1 {
+        margin: 65px 0 12px 0;
+    }
+    .block-block {
+        top: 1747px;
+        left: 40px;
+    }
+    .block-block p {
+        margin-top: -15px;
+    }
+    .set-block p {
+        margin-top: -4px;
+    }
+    .set {
+        width: 335px;
+        margin: 364px 0 60px 3px;
+    }
+    .block h1 {
+        margin: 5px 0 12px 0;
+    }
+    .swiper-slide img {
+        width: 80%;
+    }
+}
+@media (max-width: 320px) {
+    .swiper-slide img {
+        width: 70%;
+    }
+    .blog h1 {
+        font-size: 18px;
+    }
+    .set {
+        margin: 339px 0 60px -6px;
+    }
+    .homeland {
+        width: 295px;
+    }
+    .homeland img {
+        width: 90%;
+        margin: 12px 0 20px 15px;
+    }
+    .vector div img{
+        width: 90%;
+    }
+    .gallery {
+        height: 340px;
+    }
+    .block-block {
+        top: 1690px;
+        left: 10px;
+    }
+    .set {
+        width: 300px;
+        margin: 339px 0 60px -4px;
+    }
+    .active {
+        width: 290px;
+    }
+    .active div p {
+        font-size: 12px;
+    }
+    .hero h1 {
+        font-size: 25px;
+        margin-top: -60px;
+    }
+    .cat {
+        right: 70px;
+        width: 70px;
+    }
+    .sq {
+        right: 12px;
+    }
+    .sc {
+        width: 96px;
+    }
+    .fire {
+         width: 119px;
+     }
+    .fa-arrow-down-long {
+        top: 877px;
+        right: 230px;
+    }
+    .block-block {
+        top: 1650px;}
+    .explore button {
+        margin: 0 15px 20px 0;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
